@@ -1,8 +1,8 @@
 ---
-title = 'Anum Siddiqui'
+title = "Hi, I'm Anum Siddiqui"
 ---
 
-Hi, I'm an SRE/systems engineer. I'm building a notebook for my projects and OS internals notes.
+I'm an SRE/systems engineer. I'm building a notebook for my projects and OS internals notes.
 
 - [Projects](/projects/)
 - [Engineering Notes](/engineering/)
