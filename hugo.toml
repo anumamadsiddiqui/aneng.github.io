@@ -12,3 +12,4 @@ canonifyURLs = true
     ShowPostNavLinks = true
     hideFooter = true
     ShowAuthor = false
+    disableThemeToggle - false
