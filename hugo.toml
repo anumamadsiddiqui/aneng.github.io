@@ -1,0 +1,9 @@
+baseURL = "https://anumsiddiqui.github.io/"
+languageCode = "en-gb"
+title = "Hi, I'm Anum"
+theme = "PaperMod"
+
+[params]
+    ShowReadingTime = true
+    ShowShareButtons = false
+    ShowPostNavLinks = true
